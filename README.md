@@ -1,11 +1,9 @@
-## Hi there 👋
+## Hi there 👋 I'm Edgar a Professional Data Analyst
 
 <!--
 **Diaz-Analyst/Diaz-Analyst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-<p align='Left'>I'm Edgar, nice to meet you.
-
-Currently working on TripleTen Bootcamp
+<p>Currently working on TripleTen Bootcamp
 Currently learning how to break into the tech industry
 Looking to help with data analysis
 Ask me about anime, manga, card/board/video games
