@@ -3,7 +3,7 @@
 <!--
 **Diaz-Analyst/Diaz-Analyst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-I'm Edgar, nice to meet you.
+<P align Left>I'm Edgar, nice to meet you.
 
 Currently working on TripleTen Bootcamp
 Currently learning how to break into the tech industry
@@ -28,4 +28,4 @@ Self taught on new machinery at Encore, and taught everyone else, including lead
 I love to play Yu-Gi-Oh! To me, it's a fun game of wits against another person (or a computer). I get to try new strategies to solve a puzzle. If I win, I have fun. If I lose, I reflect and think about how I could have done better, then I edit my deck and become stronger than I was before.
 I'm the Dungeon Master for a campaign for my friends, so far we are enjoying hanging out and playing D&D.
 
-I love to read Manga/Light Novels, and watch anime.
+I love to read Manga/Light Novels, and watch anime. </P>
